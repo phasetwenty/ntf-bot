@@ -172,3 +172,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# Project-specific
+ntf-bot.db
